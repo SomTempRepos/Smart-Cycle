@@ -1,0 +1,4 @@
+Test health endpoint: http://localhost:3001/health
+Test API root: http://localhost:3001/api
+Test bikes endpoint: http://localhost:3001/api/bikes
+Test specific bike: http://localhost:3001/api/bikes/bike-001/status
